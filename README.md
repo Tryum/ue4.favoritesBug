@@ -1,4 +1,4 @@
-# UE4 favorites duplication
+# UE4 property duplication when favorites are activated
 
 ## Issue
 
